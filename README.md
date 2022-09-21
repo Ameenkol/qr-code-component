@@ -33,8 +33,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ameenkol/qr-code-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Ameenkol/qr-code-component)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/684faab8-d3ef-4f83-ab68-ed90be625c44/deploy-status)](https://app.netlify.com/sites/frontend-mentor-myqrcode/deploys)
+- Live Site URL: (https://frontend-mentor-myqrcode.netlify.app/)
 
 ## My process
 
